@@ -26,4 +26,11 @@ google.com, pub-2846735043546429, DIRECT, f08c47fec0942fa0
 
 Set store **Website** to **`https://patguettler.github.io`** (or ensure it uses that domain) so it matches the `app-ads.txt` host.
 
-The game site and privacy policy remain at `https://patguettler.github.io/unicorn-arcade/`.
+**Shared privacy policy (all Grapegames apps):**
+
+- Privacy policy: `https://patguettler.github.io/privacy-policy.html`
+- Data deletion URL: `https://patguettler.github.io/privacy-policy.html#data-deletion`
+
+Use those URLs in Play Console for Unicorn Arcade, Peregrine, Pigeon, and future apps unless an app needs its own policy.
+
+Unicorn Arcade’s game site remains at `https://patguettler.github.io/unicorn-arcade/`.
